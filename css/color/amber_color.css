@@ -1,0 +1,95 @@
+.text-custom, .custom-nav .navbar-nav li a:hover, .custom-nav .navbar-nav li a:active, .custom-nav .navbar-nav li.active a, .custom-nav.stickyadd .navbar-nav li a:hover, .custom-nav.stickyadd .navbar-nav li a:active, .custom-nav.stickyadd .navbar-nav li.active a, .about-social li a:hover {
+    color: #FFBF00 !important;
+}
+.btn-custom, .vfx-form-group .form-control:focus, .about-social li a:hover {
+    border-color: #FFBF00;
+}
+.scroll_down i {
+	border: 2px solid #FFBF00;
+}
+.scroll_down i:after{
+	background: #FFBF00;
+}
+.services-boxes:hover{
+	background:#FFBF00;
+	border:5px solid #FFBF00;
+}
+span.sub-item-title {
+    background: #FFBF00;
+}
+.resume-items .item .bullet {
+    border: 2px solid #FFBF00;
+}
+.resume-items .item .card-header .year i {
+    color: #FFBF00;
+}
+.resume-items .item::before {
+    border-left: 1px solid #FFBF00;
+}
+.resume-items .item .card-header .separator {
+    background: #FFBF00;
+}
+.chart-bar > .item-progress {
+    background-color: #FFBF00;
+}	
+.chart-bar > .percent{
+	color:#FFBF00;
+	border: 1px solid #FFBF00;
+}
+.arrow{
+	border:1px solid #FFBF00;
+	border-width:0 1px 1px 0;
+}	
+.team .thumbnail::after {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FFBF00), to(#000000));
+    background: -webkit-linear-gradient(top, #FFBF00 0, #000000 100%);
+    background: -o-linear-gradient(top, #FFBF00 0, #000000 100%);
+    background: linear-gradient(to bottom, #FFBF00 0, #000000 100%);
+}
+.team ul.social-icon li a i:hover {
+    color: #FFBF00;
+}
+.services-boxes a.detail-link{
+	background: #FFBF00;
+	border: 2px solid #FFBF00;
+}
+.services-boxes:hover a.detail-link {
+    color: #FFBF00;
+}
+.custom-btn-item:hover {
+    color: #ffffff;
+    background-color: #FFBF00;
+    border-color: #FFBF00;
+}
+.blog_box_area .date {
+    background: #FFBF00;    
+}
+.app-download-list li a:hover i, .app-download-list li a:hover h5, .app-download-list li a:hover span {
+    color: #FFBF00;
+}
+.play-icon .play-button a {
+	color: #FFBF00;
+}
+.content_blog a.more_btn{
+	background:#FFBF00;
+	border:2px solid #FFBF00;
+}
+.header-name span.element, .header-name span.simple-text-rotate{
+	color:#FFBF00;
+}
+.section h2:before, .section#about h2::before{
+	background:#FFBF00;
+}
+.about_short_contact_wrap ul li a:hover {
+    color: #FFBF00;
+}
+.content_blog h5 a:hover{
+	color:#FFBF00 !important;
+}
+.btn-custom, .back_top, .services-boxes .services-title-border, .owl-theme .owl-controls .owl-page span, .work_menu a.active, .work_menu a:hover {
+    background-color: #FFBF00;
+}
+.btn-custom:hover, .btn-custom:focus, .btn-custom:active, .btn-custom.active, .btn-custom.focus, .btn-custom:active, .btn-custom:focus, .btn-custom:hover, .open > .dropdown-toggle.btn-custom {
+    background-color: #635f5f;
+    border-color: #635f5f;
+}
